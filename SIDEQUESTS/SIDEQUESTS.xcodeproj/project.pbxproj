@@ -13,14 +13,14 @@
 		45960641298E320500C93DE2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45960640298E320500C93DE2 /* Preview Assets.xcassets */; };
 		4596064E298EBA1F00C93DE2 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4596064D298EBA1F00C93DE2 /* Profile.swift */; };
 		45960667298F0C7600C93DE2 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45960666298F0C7600C93DE2 /* ImagePicker.swift */; };
+		45E7186D298F77F700B46F6C /* HealthQuest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45E71868298F77F700B46F6C /* HealthQuest.swift */; };
+		45E7186E298F77F700B46F6C /* MysteryQuest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45E71869298F77F700B46F6C /* MysteryQuest.swift */; };
+		45E7186F298F77F700B46F6C /* AcademicQuest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45E7186A298F77F700B46F6C /* AcademicQuest.swift */; };
+		45E71870298F77F700B46F6C /* SocialQuest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45E7186B298F77F700B46F6C /* SocialQuest.swift */; };
+		45E71871298F77F700B46F6C /* Tasks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45E7186C298F77F700B46F6C /* Tasks.swift */; };
 		7616EDAE298ECEBF002BADD7 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7616EDAD298ECEBF002BADD7 /* Buttons.swift */; };
 		7616EDB8298ED99B002BADD7 /* Calender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7616EDB7298ED99B002BADD7 /* Calender.swift */; };
 		7616EE76298F22C3002BADD7 /* CurrentTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7616EE75298F22C3002BADD7 /* CurrentTask.swift */; };
-		7616EE92298F4F2A002BADD7 /* HealthQuest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7616EE91298F4F2A002BADD7 /* HealthQuest.swift */; };
-		7616EE94298F4F31002BADD7 /* SocialQuest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7616EE93298F4F31002BADD7 /* SocialQuest.swift */; };
-		7616EE96298F4F37002BADD7 /* AcademicQuest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7616EE95298F4F37002BADD7 /* AcademicQuest.swift */; };
-		7616EE98298F4F42002BADD7 /* MysteryQuest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7616EE97298F4F42002BADD7 /* MysteryQuest.swift */; };
-		7616EE9A298F4F4C002BADD7 /* Tasks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7616EE99298F4F4C002BADD7 /* Tasks.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,14 +31,14 @@
 		45960640298E320500C93DE2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4596064D298EBA1F00C93DE2 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		45960666298F0C7600C93DE2 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		45E71868298F77F700B46F6C /* HealthQuest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HealthQuest.swift; sourceTree = "<group>"; };
+		45E71869298F77F700B46F6C /* MysteryQuest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MysteryQuest.swift; sourceTree = "<group>"; };
+		45E7186A298F77F700B46F6C /* AcademicQuest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AcademicQuest.swift; sourceTree = "<group>"; };
+		45E7186B298F77F700B46F6C /* SocialQuest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SocialQuest.swift; sourceTree = "<group>"; };
+		45E7186C298F77F700B46F6C /* Tasks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tasks.swift; sourceTree = "<group>"; };
 		7616EDAD298ECEBF002BADD7 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		7616EDB7298ED99B002BADD7 /* Calender.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calender.swift; sourceTree = "<group>"; };
 		7616EE75298F22C3002BADD7 /* CurrentTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurrentTask.swift; sourceTree = "<group>"; };
-		7616EE91298F4F2A002BADD7 /* HealthQuest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HealthQuest.swift; path = ../../../Downloads/SIDEQUESTS/SIDEQUESTS/HealthQuest.swift; sourceTree = "<group>"; };
-		7616EE93298F4F31002BADD7 /* SocialQuest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SocialQuest.swift; path = ../../../Downloads/SIDEQUESTS/SIDEQUESTS/SocialQuest.swift; sourceTree = "<group>"; };
-		7616EE95298F4F37002BADD7 /* AcademicQuest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AcademicQuest.swift; path = ../../../Downloads/SIDEQUESTS/SIDEQUESTS/AcademicQuest.swift; sourceTree = "<group>"; };
-		7616EE97298F4F42002BADD7 /* MysteryQuest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MysteryQuest.swift; path = ../../../Downloads/SIDEQUESTS/SIDEQUESTS/MysteryQuest.swift; sourceTree = "<group>"; };
-		7616EE99298F4F4C002BADD7 /* Tasks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Tasks.swift; path = ../../../Downloads/SIDEQUESTS/SIDEQUESTS/Tasks.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,16 +71,16 @@
 		45960638298E320400C93DE2 /* SIDEQUESTS */ = {
 			isa = PBXGroup;
 			children = (
+				45E7186A298F77F700B46F6C /* AcademicQuest.swift */,
+				45E71868298F77F700B46F6C /* HealthQuest.swift */,
+				45E71869298F77F700B46F6C /* MysteryQuest.swift */,
+				45E7186B298F77F700B46F6C /* SocialQuest.swift */,
+				45E7186C298F77F700B46F6C /* Tasks.swift */,
 				45960639298E320400C93DE2 /* SIDEQUESTS.swift */,
 				4596063B298E320400C93DE2 /* ContentView.swift */,
 				7616EDAD298ECEBF002BADD7 /* Buttons.swift */,
 				7616EDB7298ED99B002BADD7 /* Calender.swift */,
 				4596064D298EBA1F00C93DE2 /* Profile.swift */,
-				7616EE91298F4F2A002BADD7 /* HealthQuest.swift */,
-				7616EE93298F4F31002BADD7 /* SocialQuest.swift */,
-				7616EE95298F4F37002BADD7 /* AcademicQuest.swift */,
-				7616EE97298F4F42002BADD7 /* MysteryQuest.swift */,
-				7616EE99298F4F4C002BADD7 /* Tasks.swift */,
 				7616EE75298F22C3002BADD7 /* CurrentTask.swift */,
 				45960666298F0C7600C93DE2 /* ImagePicker.swift */,
 				4596063D298E320500C93DE2 /* Assets.xcassets */,
@@ -167,15 +167,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45E71870298F77F700B46F6C /* SocialQuest.swift in Sources */,
+				45E7186E298F77F700B46F6C /* MysteryQuest.swift in Sources */,
 				7616EDAE298ECEBF002BADD7 /* Buttons.swift in Sources */,
-				7616EE98298F4F42002BADD7 /* MysteryQuest.swift in Sources */,
 				4596063C298E320400C93DE2 /* ContentView.swift in Sources */,
+				45E71871298F77F700B46F6C /* Tasks.swift in Sources */,
+				45E7186F298F77F700B46F6C /* AcademicQuest.swift in Sources */,
 				4596064E298EBA1F00C93DE2 /* Profile.swift in Sources */,
-				7616EE9A298F4F4C002BADD7 /* Tasks.swift in Sources */,
-				7616EE96298F4F37002BADD7 /* AcademicQuest.swift in Sources */,
 				45960667298F0C7600C93DE2 /* ImagePicker.swift in Sources */,
-				7616EE94298F4F31002BADD7 /* SocialQuest.swift in Sources */,
-				7616EE92298F4F2A002BADD7 /* HealthQuest.swift in Sources */,
+				45E7186D298F77F700B46F6C /* HealthQuest.swift in Sources */,
 				7616EE76298F22C3002BADD7 /* CurrentTask.swift in Sources */,
 				4596063A298E320400C93DE2 /* SIDEQUESTS.swift in Sources */,
 				7616EDB8298ED99B002BADD7 /* Calender.swift in Sources */,
